@@ -1,2 +1,3 @@
 # RateMySplice
-Splice 5' donor
+
+Script to find 5' splicing site donors.
